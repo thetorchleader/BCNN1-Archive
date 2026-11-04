@@ -1,2 +1,3 @@
-# BCNN1-Archive
-BCNN1 Archives — the preserved story archive of Black Christian News Network One (BCNN1), mirrored from bcnn1wp.wordpress.com for the Ministry Legacy Plan.
+# BCNN1 Archives
+
+The preserved story archive of Black Christian News Network One (BCNN1), mirrored from bcnn1wp.wordpress.com under the Ministry Legacy Plan. Volume One: The Beginning.
